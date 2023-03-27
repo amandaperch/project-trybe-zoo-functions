@@ -10,10 +10,63 @@
 - Escolher a _Higher Order Function_ mais adequada para a obtenção de um resultado esperado;
 - Aprender a usar de forma conjunta as _Higher Order Functions_;
 - Interpretar testes unitários e produzir soluções que atendam a eles.
+- SoftSkill gerenciamento de tempo.
+
 ---
 ## Arquivos manipulados 🐯
+
+Os arquivos com códigos feitos por mim são dos seguintes:
+
+  SRC/calculateEntry.js
+  SRC/countAnimals.js
+  SRC/getAnimalMap.js
+  SRC/getAnimalsOlderThan.js
+  SRC/getEmployeeByName.js
+  SRC/getEmployeesCoverage.js
+  SRC/getOldestFromFirstSpecies.js
+  SRC/getRelatedEmployees.js
+  SRC/getSchedule.js
+  SRC/getSpeciesByIds.js
+ 
 ---
-## Requesitos realizados 🦒
+## Requisitos realizados 🦒
+
+- Neste Projeto eu obtive 80% de aprovação realizado os seguintes requisitos:
+  
+  [x] Function getSpeciesByIds;
+      Esta função é responsável pela busca das espécies de animais por id. Ela retorna um array contendo as espécies referentes aos ids passados como parâmetro, podendo receber um ou mais ids.
+      
+  [x] Function getAnimalsOlderThan;
+      Esta função, a partir do nome de uma espécie e uma idade mínima, verifica se todos os animais daquela espécie possuem a idade mínima especificada.
+      
+  [x] Function getEmployeeByName;
+      Esta função é responsável pela busca das pessoas colaboradoras através do primeiro ou do último nome delas
+      
+  [x] Function getRelatedEmployees;
+      Difidida em duas partes esta função deve retornar se a pessoa colaboradora é gerente ou não, caso sim deverá mostar as pessoas que são gerenciadas por ela, caso não deve ser lançado um erro padrão do JavaScript com a mensagem "O id inserido não é de uma pessoa colaboradora gerente!".
+      
+  [x] Function countAnimals;
+      Esta função é responsável por contabilizar a quantidade de animais de cada espécie.
+      
+  [x] Function calculateEntry;
+      Esta função deve trazer a faixa etária dos visitantes do zoo, sendo menor de 18 crianças, maior ou igual a 18 e menor que 50 adultas e maior ou igual a 50 senior.
+      
+  [x] Function getSchedule;
+      A função é responsável por disponibilizar as informações de horário dos animais em uma consulta para o usuário, que pode querer ter acesso ao cronograma da semana, de um dia ou de um animal em específico.
+      
+  [x] Function getOldestFromFirstSpecies;
+      A função busca por informações do animal mais velho da primeira espécie gerenciada pela pessoa colaboradora do parâmetro.
+      
 ---
-## Requesitos que serão realizados 🦛
+## Requisitos que serão realizados 🦛
+
+- [] Iniciar function getEmployeesCoverage;
+        A mesma deve trazer o nome dos colaboradores e informar qual animal deve ser cuidado pelo mesmo, com suas informações principais
+
+- [] Iniciar function getAnimalMap;
+        Tem a funcionalidade de realizar o mapeamento geográfico das espécies e seus animais, podendo ainda filtrá-los por ordem alfabética e sexo.
+        
+- [] Escrever testes;
+        Os testes que utilizavamos para este projeto eram da Trybe e foram deletados, desta maneira estarei realizando novos testes.
+
 ---
