@@ -16,18 +16,18 @@
 ## Arquivos manipulados 🐯
 
 Os arquivos com códigos feitos por mim são dos seguintes:
-
-  SRC/calculateEntry.js
-  SRC/countAnimals.js
-  SRC/getAnimalMap.js
-  SRC/getAnimalsOlderThan.js
-  SRC/getEmployeeByName.js
-  SRC/getEmployeesCoverage.js
-  SRC/getOldestFromFirstSpecies.js
-  SRC/getRelatedEmployees.js
-  SRC/getSchedule.js
-  SRC/getSpeciesByIds.js
- 
+<p>
+  SRC/calculateEntry.js<br />
+  SRC/countAnimals.js<br />
+  SRC/getAnimalMap.js<br />
+  SRC/getAnimalsOlderThan.js<br />
+  SRC/getEmployeeByName.js<br />
+  SRC/getEmployeesCoverage.js<br />
+  SRC/getOldestFromFirstSpecies.js<br />
+  SRC/getRelatedEmployees.js<br />
+  SRC/getSchedule.js<br />
+  SRC/getSpeciesByIds.js<br />
+ </p>
 ---
 ## Requisitos realizados 🦒
 
