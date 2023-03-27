@@ -8,7 +8,12 @@ Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua cr
 - 📌quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
 - 📌quais arquivos/pastas foram desenvolvidos pela Trybe.
 
---> <img src="https://github.com/amandaperch/project-trybe-zoo-functions/blob/main/img/Zoo%20Functions_readme.png"/>
+---
+--> 
+<p align="center">
+<img src="https://github.com/amandaperch/project-trybe-zoo-functions/blob/main/img/Zoo%20Functions_readme.png"/>
+</p>
+-->
 ---
 
 ## Habilidades
