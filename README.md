@@ -44,13 +44,13 @@ Os arquivos com códigos feitos por mim são dos seguintes:
       Esta função é responsável pela busca das pessoas colaboradoras através do primeiro ou do último nome delas
       
   [x] Function getRelatedEmployees;<br />
-      Difidida em duas partes esta função deve retornar se a pessoa colaboradora é gerente ou não, caso sim deverá mostar as pessoas que são gerenciadas por ela, caso não deve ser lançado um erro padrão do JavaScript com a mensagem "O id inserido não é de uma pessoa colaboradora gerente!".
+      Dividida em duas partes, esta função deve retornar se a pessoa colaboradora é gerente ou não, caso sim deverá mostrar as pessoas que são gerenciadas por ela, caso não deve ser lançado um erro padrão do JavaScript com a mensagem "O id inserido não é de uma pessoa colaboradora gerente!".
       
   [x] Function countAnimals;<br />
       Esta função é responsável por contabilizar a quantidade de animais de cada espécie.
       
   [x] Function calculateEntry;<br />
-      Esta função deve trazer a faixa etária dos visitantes do zoo, sendo menor de 18 crianças, maior ou igual a 18 e menor que 50 adultas e maior ou igual a 50 senior.
+      Esta função deve trazer a faixa etária dos visitantes do zoo, sendo menor de 18: crianças, maior ou igual a 18 e menor que 50: adultas e maior ou igual a 50: senior.
       
   [x] Function getSchedule;<br />
       A função é responsável por disponibilizar as informações de horário dos animais em uma consulta para o usuário, que pode querer ter acesso ao cronograma da semana, de um dia ou de um animal em específico.
